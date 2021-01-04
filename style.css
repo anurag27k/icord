@@ -106,6 +106,12 @@
 
         .time-tab {
             border-left: 2px solid #ccc;
+            
+        }
+
+        .time {
+
+            color: #ccc;
         }
 
         .bullet-icon {
@@ -152,4 +158,5 @@
             background-color: white;
         }
 
+        
         /* ----END:STYLE FOR ACCORDION----*/
